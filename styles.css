@@ -278,11 +278,11 @@ img {
   margin-top: var(--mb-2);
 }
 
-.about__subtitle {
+.about__subtitle{
   margin-bottom: var(--mb-2);
 }
 
-.about__text {
+.about__text{
   line-height: 1.5;
 }
 
