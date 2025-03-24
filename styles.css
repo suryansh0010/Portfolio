@@ -644,7 +644,7 @@ img {
   }
 
   .nav__item {
-    margin-left: var(--mb-6);
+    margin-left: var(--mb-6); 
     margin-bottom: 0;
   }
 
